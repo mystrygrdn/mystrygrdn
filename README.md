@@ -5,7 +5,7 @@ Currently an **Information System Student at Universitas Sam Ratulangi**
 Please check out my [LinkedIn](https://linkedin.com/in/darl-sa01) and let's connect!!
 
 <p align="center">
-<img src="(https://tenor.com/view/sin-b-gfriend-evisu-happy-dance-gif-20643127)" width="300">
+<img src="https://tenor.com/view/sin-b-gfriend-evisu-happy-dance-gif-20643127" width="300">
 </p>
 
 <p align="center">
