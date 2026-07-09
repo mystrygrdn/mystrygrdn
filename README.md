@@ -1,16 +1,18 @@
-# Hello, I'm Darlene! 👋
+# Hello, I'm Darlene Asalui! 👋
 
-I am an Information Systems graduate focused on web development. My main passion lies in crafting reliable, well-structured, and highly responsive web applications from the ground up.
+I recently graduated with a degree in Information Systems. I love web development and enjoy building clean, friendly, and responsive websites.
 
-Currently, I am looking to bring my skills to global teams and am **actively available for remote work opportunities**. 
+Right now, I am **actively looking for remote work opportunities**. I would love to join global teams and work on exciting new projects!
 
-On the technical side, my core stack involves building dynamic interfaces and robust backends using **React.js, Laravel, Bootstrap, HTML, and CSS**. I also have hands-on experience setting up flexible web solutions with **WordPress**.
+**My core technical skills:**
+* **Frontend:** React.js, Bootstrap, HTML, CSS
+* **Backend & CMS:** Laravel, WordPress
 
-🌐 **Let's connect or explore my work:**
-* See my latest projects on my [Personal Portfolio](https://darlportfolio.vercel.app/)
-* Reach out to me directly via [LinkedIn](https://linkedin.com/in/darl-sa01)
+🌐 **Let's connect:**
+* View my projects on my [Personal Portfolio](https://darlportfolio.vercel.app/)
+* Connect with me on [LinkedIn](https://linkedin.com/in/darl-sa01)
 
 ---
 <p align="left">
-  <i>Thanks for stopping by! 💌</i>
+  <i>Thanks for visiting! 💌</i>
 </p>
