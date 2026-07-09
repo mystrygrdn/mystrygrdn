@@ -1,4 +1,4 @@
-# Hello, I'm Darlene Asalui! 👋
+# Hello, I'm Darlene! 👋
 
 I recently graduated with a degree in Information Systems. I love web development and enjoy building clean, friendly, and responsive websites.
 
