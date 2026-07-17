@@ -13,6 +13,11 @@ Right now, I am **actively looking for remote work opportunities**. I would love
 * Connect with me on [LinkedIn](https://linkedin.com/in/darl-sa01)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mystrygrdn&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mystrygrdn&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mystrygrdn&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <p align="left">
   <i>Thanks for visiting! 💌</i>
 </p>
